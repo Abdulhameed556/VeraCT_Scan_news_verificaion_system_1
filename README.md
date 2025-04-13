@@ -26,6 +26,10 @@ A powerful, AI-enhanced news verification API that analyzes the credibility of n
 - **Pydantic + CORS middleware**
 - **Uvicorn (ASGI server)**
 
+- ## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ---
 
 ## ⚙️ Setup Instructions
